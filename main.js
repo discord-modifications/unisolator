@@ -12,7 +12,7 @@ if (patterns[process.platform]) {
       console.error('nullbyte failed patching, expect issues.');
    }
 
-   patch('unbound', (options) => {
+   patch('unisolate', (options) => {
       if (global.__ABORT__) return;
 
       options.webPreferences ??= {};
