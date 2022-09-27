@@ -1,0 +1,7 @@
+{
+   "name": "Unisolator",
+   "author": "eternal",
+   "id": "eternal.unisolator",
+   "description": "Uses nullbyte to disable Discord's forced web preferences & disables context isolation for a further speed boost.",
+   "version": "1.0.0"
+}
